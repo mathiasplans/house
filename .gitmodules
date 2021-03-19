@@ -1,3 +1,6 @@
 [submodule "wfc"]
 	path = wfc
 	url = git@github.com:mathiasplans/wfc.git
+[submodule "shape"]
+	path = shape
+	url = git@github.com:mathiasplans/shape.git
